@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">w05p01-zasoby</string>
+    <string name="powitanie_en">Hello World!</string>
+    <string name="powitanie_pl">Witaj Świecie</string>
+    <string name="rb_opis_1">Język polski</string>
+    <string name="rb_opis_2">Język angielski</string>
+
+</resources>
